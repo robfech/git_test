@@ -4,3 +4,4 @@ some more text
 some more and more text
 more text
 create new branch
+hotfix
